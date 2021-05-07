@@ -34,7 +34,11 @@ This README was generated with ❤️ by [README-generator](https://github.com/S
 
 💥[FullScreen Video Link](https://photos.app.goo.gl/48LMkeUZDHSqXBQo7)💥
 
-![Untitled_ Feb 14, 2021 2_39 PM]()
 
-![generator](![new](https://user-images.githubusercontent.com/72447285/117396874-e2ff3380-aec8-11eb-8bd3-878423f95a33.png))
+![Untitled_ May 7, 2021 12_18 AM](https://user-images.githubusercontent.com/72447285/117397373-fced4600-aec9-11eb-9b77-79cde933fbad.gif)
+
+![new](https://user-images.githubusercontent.com/72447285/117396874-e2ff3380-aec8-11eb-8bd3-878423f95a33.png)
+
+
+
 
