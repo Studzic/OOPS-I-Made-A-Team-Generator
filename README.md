@@ -32,8 +32,9 @@ This README was generated with ❤️ by [README-generator](https://github.com/S
 ## Functionality
 
 
-💥[FullScreen Video Link](https://user-images.githubusercontent.com/72447285/107887251-c90a1200-6ed2-11eb-9c46-74f79d85fea8.mp4)💥
+💥[FullScreen Video Link](https://photos.app.goo.gl/48LMkeUZDHSqXBQo7)💥
 
-![Untitled_ Feb 14, 2021 2_39 PM](https://user-images.githubusercontent.com/72447285/107887295-0bcbea00-6ed3-11eb-9248-1190307dbd5b.gif)
+![Untitled_ Feb 14, 2021 2_39 PM]()
 
-![generator](https://user-images.githubusercontent.com/72447285/107887377-b0e6c280-6ed3-11eb-9395-d271f8125563.png)
+![generator](![new](https://user-images.githubusercontent.com/72447285/117396874-e2ff3380-aec8-11eb-8bd3-878423f95a33.png))
+
